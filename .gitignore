@@ -1,0 +1,85 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.hmap
+*.ipa
+*.xcarchive
+*.xcbot
+*.xcconfig
+*.xccheckout
+*.xcscmblueprint
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcshareddata/
+*.xcuserdata/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# Grails
+application.properties
+target/
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Android Studio
+*.apk
+*.ap_
+*.dex
+*.class
+.idea/
+.gradle/
+/local.properties
+*.log
+*.d
+*.pro
+android/
+
+# Eclipse
+.gradle/
+bin/
+build/
+.metadata/
+.settings/
+.classpath
+.project
+*.swp
+*~
+
+# Visual Studio Code
+.vscode/
+
+# Node.js
+node_modules/
+
+# General
+._*
+.DS_Store?
+.AppleDouble
+.LSOverride
+Icon?
+ehthumbs.db
+Desktop.ini
+Thumbs.db
